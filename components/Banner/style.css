@@ -1,0 +1,16 @@
+.bannerContainer{
+  margin: 40px auto 0 auto;
+  width: 98%;
+  height: 19vh;
+  border: 2px solid black
+}
+.bannerContainer h2{
+  margin-top: .5em;
+  font-size: 2.2em;
+  font-weight: 400;
+}
+.bannerContainer h3{
+  margin-top: .75em;
+  font-size: 1.4em;
+  font-weight: 400;
+}
